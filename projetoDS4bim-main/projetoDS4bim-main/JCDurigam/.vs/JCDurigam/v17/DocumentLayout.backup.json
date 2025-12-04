@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Henrico\\Desktop\\jcdurigam\\projetoDS4bim-main (2)\\projetoDS4bim-main\\JCDurigam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B30A1461-E1DE-4B44-BFC6-A06D2AFF7B67}|JCDurigam\\JCDurigam.csproj|c:\\users\\henrico\\desktop\\jcdurigam\\projetods4bim-main (2)\\projetods4bim-main\\jcdurigam\\jcdurigam\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B30A1461-E1DE-4B44-BFC6-A06D2AFF7B67}|JCDurigam\\JCDurigam.csproj|solutionrelative:jcdurigam\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30A1461-E1DE-4B44-BFC6-A06D2AFF7B67}|JCDurigam\\JCDurigam.csproj|c:\\users\\henrico\\desktop\\jcdurigam\\projetods4bim-main (2)\\projetods4bim-main\\jcdurigam\\jcdurigam\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B30A1461-E1DE-4B44-BFC6-A06D2AFF7B67}|JCDurigam\\JCDurigam.csproj|solutionrelative:jcdurigam\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30A1461-E1DE-4B44-BFC6-A06D2AFF7B67}|JCDurigam\\JCDurigam.csproj|c:\\users\\henrico\\desktop\\jcdurigam\\projetods4bim-main (2)\\projetods4bim-main\\jcdurigam\\jcdurigam\\views\\usuario\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B30A1461-E1DE-4B44-BFC6-A06D2AFF7B67}|JCDurigam\\JCDurigam.csproj|solutionrelative:jcdurigam\\views\\usuario\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30A1461-E1DE-4B44-BFC6-A06D2AFF7B67}|JCDurigam\\JCDurigam.csproj|c:\\users\\henrico\\desktop\\jcdurigam\\projetods4bim-main (2)\\projetods4bim-main\\jcdurigam\\jcdurigam\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B30A1461-E1DE-4B44-BFC6-A06D2AFF7B67}|JCDurigam\\JCDurigam.csproj|solutionrelative:jcdurigam\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30A1461-E1DE-4B44-BFC6-A06D2AFF7B67}|JCDurigam\\JCDurigam.csproj|c:\\users\\henrico\\desktop\\jcdurigam\\projetods4bim-main (2)\\projetods4bim-main\\jcdurigam\\jcdurigam\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B30A1461-E1DE-4B44-BFC6-A06D2AFF7B67}|JCDurigam\\JCDurigam.csproj|solutionrelative:jcdurigam\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30A1461-E1DE-4B44-BFC6-A06D2AFF7B67}|JCDurigam\\JCDurigam.csproj|c:\\users\\henrico\\desktop\\jcdurigam\\projetods4bim-main (2)\\projetods4bim-main\\jcdurigam\\jcdurigam\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B30A1461-E1DE-4B44-BFC6-A06D2AFF7B67}|JCDurigam\\JCDurigam.csproj|solutionrelative:jcdurigam\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30A1461-E1DE-4B44-BFC6-A06D2AFF7B67}|JCDurigam\\JCDurigam.csproj|c:\\users\\henrico\\desktop\\jcdurigam\\projetods4bim-main (2)\\projetods4bim-main\\jcdurigam\\jcdurigam\\models\\appdbcontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B30A1461-E1DE-4B44-BFC6-A06D2AFF7B67}|JCDurigam\\JCDurigam.csproj|solutionrelative:jcdurigam\\models\\appdbcontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30A1461-E1DE-4B44-BFC6-A06D2AFF7B67}|JCDurigam\\JCDurigam.csproj|c:\\users\\henrico\\desktop\\jcdurigam\\projetods4bim-main (2)\\projetods4bim-main\\jcdurigam\\jcdurigam\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B30A1461-E1DE-4B44-BFC6-A06D2AFF7B67}|JCDurigam\\JCDurigam.csproj|solutionrelative:jcdurigam\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30A1461-E1DE-4B44-BFC6-A06D2AFF7B67}|JCDurigam\\JCDurigam.csproj|c:\\users\\henrico\\desktop\\jcdurigam\\projetods4bim-main (2)\\projetods4bim-main\\jcdurigam\\jcdurigam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B30A1461-E1DE-4B44-BFC6-A06D2AFF7B67}|JCDurigam\\JCDurigam.csproj|solutionrelative:jcdurigam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30A1461-E1DE-4B44-BFC6-A06D2AFF7B67}|JCDurigam\\JCDurigam.csproj|c:\\users\\henrico\\desktop\\jcdurigam\\projetods4bim-main (2)\\projetods4bim-main\\jcdurigam\\jcdurigam\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B30A1461-E1DE-4B44-BFC6-A06D2AFF7B67}|JCDurigam\\JCDurigam.csproj|solutionrelative:jcdurigam\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Henrico\\Desktop\\jcdurigam\\projetoDS4bim-main (2)\\projetoDS4bim-main\\JCDurigam\\JCDurigam\\Views\\Usuario\\Create.cshtml",
+              "RelativeDocumentMoniker": "JCDurigam\\Views\\Usuario\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Henrico\\Desktop\\jcdurigam\\projetoDS4bim-main (2)\\projetoDS4bim-main\\JCDurigam\\JCDurigam\\Views\\Usuario\\Create.cshtml",
+              "RelativeToolTip": "JCDurigam\\Views\\Usuario\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-04T00:21:19.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Henrico\\Desktop\\jcdurigam\\projetoDS4bim-main (2)\\projetoDS4bim-main\\JCDurigam\\JCDurigam\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "JCDurigam\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Henrico\\Desktop\\jcdurigam\\projetoDS4bim-main (2)\\projetoDS4bim-main\\JCDurigam\\JCDurigam\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "JCDurigam\\Views\\Home\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-03T23:09:39.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Henrico\\Desktop\\jcdurigam\\projetoDS4bim-main (2)\\projetoDS4bim-main\\JCDurigam\\JCDurigam\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "JCDurigam\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Henrico\\Desktop\\jcdurigam\\projetoDS4bim-main (2)\\projetoDS4bim-main\\JCDurigam\\JCDurigam\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "JCDurigam\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T00:16:50.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Henrico\\Desktop\\jcdurigam\\projetoDS4bim-main (2)\\projetoDS4bim-main\\JCDurigam\\JCDurigam\\Program.cs",
+              "RelativeDocumentMoniker": "JCDurigam\\Program.cs",
+              "ToolTip": "C:\\Users\\Henrico\\Desktop\\jcdurigam\\projetoDS4bim-main (2)\\projetoDS4bim-main\\JCDurigam\\JCDurigam\\Program.cs",
+              "RelativeToolTip": "JCDurigam\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T00:08:42.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Henrico\\Desktop\\jcdurigam\\projetoDS4bim-main (2)\\projetoDS4bim-main\\JCDurigam\\JCDurigam\\appsettings.json",
+              "RelativeDocumentMoniker": "JCDurigam\\appsettings.json",
+              "ToolTip": "C:\\Users\\Henrico\\Desktop\\jcdurigam\\projetoDS4bim-main (2)\\projetoDS4bim-main\\JCDurigam\\JCDurigam\\appsettings.json",
+              "RelativeToolTip": "JCDurigam\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-04T00:07:47.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContex.cs",
+              "DocumentMoniker": "C:\\Users\\Henrico\\Desktop\\jcdurigam\\projetoDS4bim-main (2)\\projetoDS4bim-main\\JCDurigam\\JCDurigam\\Models\\AppDbContex.cs",
+              "RelativeDocumentMoniker": "JCDurigam\\Models\\AppDbContex.cs",
+              "ToolTip": "C:\\Users\\Henrico\\Desktop\\jcdurigam\\projetoDS4bim-main (2)\\projetoDS4bim-main\\JCDurigam\\JCDurigam\\Models\\AppDbContex.cs",
+              "RelativeToolTip": "JCDurigam\\Models\\AppDbContex.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T00:04:32.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Henrico\\Desktop\\jcdurigam\\projetoDS4bim-main (2)\\projetoDS4bim-main\\JCDurigam\\JCDurigam\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "JCDurigam\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Henrico\\Desktop\\jcdurigam\\projetoDS4bim-main (2)\\projetoDS4bim-main\\JCDurigam\\JCDurigam\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "JCDurigam\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T23:46:54.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Henrico\\Desktop\\jcdurigam\\projetoDS4bim-main (2)\\projetoDS4bim-main\\JCDurigam\\JCDurigam\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "JCDurigam\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Henrico\\Desktop\\jcdurigam\\projetoDS4bim-main (2)\\projetoDS4bim-main\\JCDurigam\\JCDurigam\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "JCDurigam\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAFMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-17T12:04:45.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Henrico\\Desktop\\jcdurigam\\projetoDS4bim-main (2)\\projetoDS4bim-main\\JCDurigam\\JCDurigam\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "JCDurigam\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Henrico\\Desktop\\jcdurigam\\projetoDS4bim-main (2)\\projetoDS4bim-main\\JCDurigam\\JCDurigam\\Models\\Usuario.cs",
+              "RelativeToolTip": "JCDurigam\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T23:47:25.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Henrico\\Desktop\\jcdurigam\\projetoDS4bim-main (2)\\projetoDS4bim-main\\JCDurigam\\JCDurigam\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "JCDurigam\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Henrico\\Desktop\\jcdurigam\\projetoDS4bim-main (2)\\projetoDS4bim-main\\JCDurigam\\JCDurigam\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "JCDurigam\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAwE8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-03T13:27:30.398Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
