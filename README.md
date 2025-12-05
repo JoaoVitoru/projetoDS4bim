@@ -1,5 +1,5 @@
 INTEGRANTES DA DUPLA 2DS:
-Henrico Saeki Rolim Issomura
+Henrico Saeki Rolim Issomura //
 João Vitor dos Santos Nunes
 
 Para conectar meu projeto ASP.NET Core MVC ao banco de dados MySQL, primeiro eu configurei a Connection String no arquivo appsettings.json,
