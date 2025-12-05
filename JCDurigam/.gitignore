@@ -1,0 +1,22 @@
+﻿# Visual Studio
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+# Build
+bin/
+obj/
+Debug/
+Release/
+
+# ASP.NET Core
+appsettings.Development.json
+appsettings.*.json
+wwwroot/lib/
+
+# Logs
+*.log
+
+# Outros
+*.db
